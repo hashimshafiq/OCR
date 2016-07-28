@@ -1,0 +1,2 @@
+# OCR
+## EmguCV + vb.net
