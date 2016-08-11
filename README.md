@@ -7,3 +7,5 @@ KNN ALgorithm
 Builtin Algo in EmguCV
 
 Training images
+
+Tesserrect OCR Engine
