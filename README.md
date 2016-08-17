@@ -8,4 +8,4 @@ Builtin Algo in EmguCV
 
 Training images
 
-Tesserrect OCR Engine
+eng.traineddata (Tresseract OCR engine training file)
